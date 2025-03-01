@@ -1,3 +1,4 @@
+The project is compiled with VS2022 and needs to support up to C++17, specifically for IDAPRO versions 8.3 and above.
 # IDAPRO Delphi Plugins
 
 This is a collection of IDAPRO plugins for Delphi. Updates will be released in the future.
@@ -24,7 +25,7 @@ This is a collection of IDAPRO plugins for Delphi. Updates will be released in t
 3. **ClassExtractorForDelphi** and **DelphiClassExtractorX64** are plugins for Delphi 32-bit and 64-bit versions that automatically analyze Delphi’s RTTI data types. These plugins allow you to easily create Structs, Classes, and Enum data types in IDAPRO.
 
 # IDAPRO Delphi 插件集合
-
+该项目用VS2022编译，需要支持到C++17，针对于IDAPRO 8.3以上版本
 这是一个针对 Delphi 的 IDAPRO 插件集合，后期将会进行更新。
 
 ## 注意事项
