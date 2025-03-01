@@ -20,6 +20,7 @@ Here is the translation of your text into English:
 4.请开发者根据自身情况调整插件源码，不要上来就直接使用。
 5.请按照这个顺序执行插件，先分析字符串，然后给函数命名，再创建类、结构体。
 AnalysisString->ModifyFunctionForString->ClassExtractorForDelphi
+
 项目描述：
 1.AnalysisString和AnalysisStringX64是针对于Delphi32位版本和64位版本的解析字符串插件，该插件用来分析IDAPRO中未能识别的字符串，包含unicode和ascll。
 2.ModifyFunctionForString和ModifyFunctionNameForStringX64是针对于Delphi32位版本和64位版本函数一键命名插件。
