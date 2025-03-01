@@ -1,0 +1,40 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  main.cpp
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\pro.h(3561): warning C4267: “参数”: 从“size_t”转换到“uint32”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\pro.h(3587): warning C4267: “参数”: 从“size_t”转换到“uint32”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\pro.h(3608): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\pro.h(4322): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\nalt.hpp(1394): warning C4267: “return”: 从“size_t”转换到“ea_t”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\nalt.hpp(1400): warning C4267: “参数”: 从“size_t”转换到“nodeidx_t”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\nalt.hpp(1439): warning C4267: “return”: 从“size_t”转换到“ushort”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\idp.hpp(1848): warning C4244: “初始化”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\idp.hpp(2205): warning C4244: “初始化”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\idp.hpp(2363): warning C4244: “初始化”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\idp.hpp(2540): warning C4244: “初始化”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\idp.hpp(3162): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(1155): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(1163): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(1165): warning C4267: “+=”: 从“size_t”转换到“sval_t”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(1374): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(1428): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(2173): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(2730): warning C4267: “return”: 从“size_t”转换到“type_sign_t”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(2771): warning C4267: “return”: 从“size_t”转换到“uint32”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(2774): warning C4267: “return”: 从“size_t”转换到“uint32”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(2915): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(2919): warning C4267: “=”: 从“size_t”转换到“uint32”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(2924): warning C4267: “=”: 从“size_t”转换到“uint32”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(2930): warning C4267: “=”: 从“size_t”转换到“uint32”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(2933): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(2940): warning C4267: “=”: 从“size_t”转换到“uint32”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(2948): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(2957): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(3013): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(3057): warning C4267: “=”: 从“size_t”转换到“uint32”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(3321): warning C4267: “初始化”: 从“size_t”转换到“uint32”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\idasdk77_include\typeinf.hpp(3843): warning C4267: “=”: 从“size_t”转换到“uint32”，可能丢失数据
+f:\小工具\analysisstringofida\modifyfunctionforstring\modifyfunctionforstring\main.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(F:\小工具\AnalysisStringOfIDA\ModifyFunctionForString\x64\Debug\ModifyFunctionForString.dll) does not match the Linker's OutputFile property value (D:\IDA_Pro_7.7\plugins\ModifyFunctionForString.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+    正在创建库 F:\小工具\AnalysisStringOfIDA\ModifyFunctionForString\x64\Debug\ModifyFunctionForString.lib 和对象 F:\小工具\AnalysisStringOfIDA\ModifyFunctionForString\x64\Debug\ModifyFunctionForString.exp
+  ModifyFunctionForString.vcxproj -> F:\小工具\AnalysisStringOfIDA\ModifyFunctionForString\x64\Debug\ModifyFunctionForString.dll
+  ModifyFunctionForString.vcxproj -> F:\小工具\AnalysisStringOfIDA\ModifyFunctionForString\x64\Debug\ModifyFunctionForString.pdb (Full PDB)
