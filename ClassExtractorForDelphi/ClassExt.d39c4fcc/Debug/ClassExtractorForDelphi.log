@@ -1,0 +1,30 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  DelphiClassExtractor.cpp
+F:\WorkContent\WorkTools\IDA8.3\SDK\idasdk_pro83\include\pro.h(3665,18): warning C4305: “=”: 从“unsigned __int64”到“size_t”截断
+  (编译源文件“/DelphiClassExtractor.cpp”)
+  
+F:\WorkContent\WorkTools\IDA8.3\SDK\idasdk_pro83\include\pro.h(3665,18): warning C4309: “=”: 截断常量值
+  (编译源文件“/DelphiClassExtractor.cpp”)
+  
+F:\WorkContent\WorkTools\IDA8.3\SDK\idasdk_pro83\include\pro.h(3791,18): warning C4305: “=”: 从“unsigned __int64”到“size_t”截断
+  (编译源文件“/DelphiClassExtractor.cpp”)
+  
+F:\WorkContent\WorkTools\IDA8.3\SDK\idasdk_pro83\include\pro.h(3791,18): warning C4309: “=”: 截断常量值
+  (编译源文件“/DelphiClassExtractor.cpp”)
+  
+F:\WorkContent\WorkTools\IDA8.3\SDK\idasdk_pro83\include\nalt.hpp(1436,63): warning C4267: “return”: 从“size_t”转换到“ushort”，可能丢失数据
+  (编译源文件“/DelphiClassExtractor.cpp”)
+  
+F:\WorkContent\WorkTools\IDA8.3\SDK\idasdk_pro83\include\ua.hpp(791,57): warning C4244: “初始化”: 从“flags64_t”转换到“flags_t”，可能丢失数据
+  (编译源文件“/DelphiClassExtractor.cpp”)
+  
+F:\WorkContent\WorkTools\IDA8.3\SDK\idasdk_pro83\include\loader.hpp(637,3): error C2338: static_assert failed: 'sizeof(plugin_t) == 64'
+  (编译源文件“/DelphiClassExtractor.cpp”)
+  
+F:\WorkContent\IDA_SCRIPT\ClassExtractorForDelphi\DelphiClassExtractor.cpp(50,20): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“/DelphiClassExtractor.cpp”)
+  
+F:\WorkContent\IDA_SCRIPT\ClassExtractorForDelphi\DelphiClassExtractor.cpp(58,20): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“/DelphiClassExtractor.cpp”)
+  
